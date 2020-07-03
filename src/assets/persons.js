@@ -14443,5 +14443,21 @@ export const data = {
         country: "The Netherlands"
       }
     },
+    {
+    id: uuidv4(),
+    name: "[Sunyad Hussain]",
+    img: "[https://avatars2.githubusercontent.com/u/32534752?s=400&v=4]",
+    links: {
+      website: "[sunyadhussain.info]",
+      linkedin: "[https://www.linkedin.com/in/sunyad-hussain-5aaa6914b/]",
+      github: "[https://github.com/saniyad-hussain]"
+    },
+    jobTitle: "[Full Stack Developer]",
+    location: {
+      city: "[Paterson]",
+      state: "[NJ]",
+      country: "[US]"
+    }
+  }
   ],
 }
